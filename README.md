@@ -1,16 +1,25 @@
-### Hi there 👋
+### 김민수 (Minsu Kim)
 
-<!--
-**alstn2468/alstn2468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello👋 My name is Minsu and I lived in Republic of Korea.
+I want to be a 🦄 full-stack developer.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working on ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Datastreams Front-end Developer (2020.01 ~ )
+
+####  🌱 I’m currently learning ...
+
+- Javascript, Typescript, Python
+- React, NextJS, React Native
+- Django, Django Rest Framework
+- MySQL, PostgreSQL, MongoDB
+- Circle CI, Github Actions, Jenkins, AWS, Heroku
+- Test Driven Development
+
+####  📫 How to reach me: ...
+
+- Email : [alstn2468_@naver.com](alstn2468_@naver.com)
+- Facebook : [https://www.facebook.com/alstn2468](https://www.facebook.com/alstn2468]
+- Instagram : [https://www.instagram.com/minsu._.0102/](https://www.instagram.com/minsu._.0102/)
+- LinkedIn : [https://www.linkedin.com/in/minsu-kim-336289160/](https://www.linkedin.com/in/minsu-kim-336289160/)
+- Blog : [https://alstn2468.github.io/](https://alstn2468.github.io/)
