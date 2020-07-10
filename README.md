@@ -1,6 +1,6 @@
 ### 김민수 (Minsu Kim)
 
-Hello👋 My name is Minsu and I lived in Republic of Korea.
+Hello👋 My name is Minsu and I lived in Republic of Korea.<br/>
 I want to be a 🦄 full-stack developer.
 
 #### 🔭 I’m currently working on ...
