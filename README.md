@@ -16,7 +16,7 @@ I want to be a web full-stack developer. 🦄
 - Circle CI, Github Actions, Jenkins, AWS, Heroku
 - Test Driven Development
 
-####  📫 How to reach me: ...
+####  📫 How to reach me ...
 
 - Email : [alstn2468_@naver.com](alstn2468_@naver.com)
 - Facebook : [https://www.facebook.com/alstn2468](https://www.facebook.com/alstn2468)
