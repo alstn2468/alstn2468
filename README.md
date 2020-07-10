@@ -19,7 +19,7 @@ I want to be a web full-stack developer. 🦄
 ####  📫 How to reach me: ...
 
 - Email : [alstn2468_@naver.com](alstn2468_@naver.com)
-- Facebook : [https://www.facebook.com/alstn2468](https://www.facebook.com/alstn2468]
+- Facebook : [https://www.facebook.com/alstn2468](https://www.facebook.com/alstn2468)
 - Instagram : [https://www.instagram.com/minsu._.0102/](https://www.instagram.com/minsu._.0102/)
 - LinkedIn : [https://www.linkedin.com/in/minsu-kim-336289160/](https://www.linkedin.com/in/minsu-kim-336289160/)
 - Blog : [https://alstn2468.github.io/](https://alstn2468.github.io/)
