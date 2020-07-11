@@ -1,5 +1,3 @@
-<div align=center>
-  
 ### 김민수 (Minsu Kim) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falstn2468%2Fhit-counter)](https://hits.seeyoufarm.com) 
 
 Hello👋 My name is Minsu and I lived in Republic of Korea.<br/>
@@ -19,4 +17,3 @@ Django, Django Rest Framework<br/>
 MySQL, PostgreSQL, MongoDB<br/>
 Circle CI, Github Actions, Jenkins, AWS, Heroku<br/>
 Test Driven Development
-</div>
