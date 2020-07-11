@@ -9,13 +9,13 @@ I want to be a web full-stack developer. 🦄
 
 #### 🔭 I’m currently working on ...
 
-Datastreams Front-end Developer (2020.01 ~ )
+- Datastreams Front-end Developer (2020.01 ~ )
 
 ####  🌱 I’m currently learning ...
 
-Javascript, Typescript, Python<br/>
-React, NextJS, React Native<br/>
-Django, Django Rest Framework<br/>
-MySQL, PostgreSQL, MongoDB<br/>
-Circle CI, Github Actions, Jenkins, AWS, Heroku<br/>
-Test Driven Development
+- Javascript, Typescript, Python<br/>
+- React, NextJS, React Native<br/>
+- Django, Django Rest Framework<br/>
+- MySQL, PostgreSQL, MongoDB<br/>
+- Circle CI, Github Actions, Jenkins, AWS, Heroku<br/>
+- Test Driven Development
