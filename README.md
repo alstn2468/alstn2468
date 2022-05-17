@@ -4,7 +4,7 @@
 
 - 💻 Junior Developers Interested in Web and Infrastructure
 - ⏰ I think **consistency** is my biggest strength.
-- 📝 I mainly use Javascript and Python, and I am interested in new technology.
+- 📝 I mainly use Typescript, and I am interested in Functional Programming.
 - 🙌 I enjoy meeting good developers and talking about development.
 - 🌈 My dream is to develop a meaningful service that many people can use.
 
